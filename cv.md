@@ -54,7 +54,7 @@ document.querySelector(".btn_check").addEventListener("click", function () {
 
 ## Experience
 
-###### Unfortunately I have no experience
+###### Now I have some experience
 
 ## Education
 
